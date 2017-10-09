@@ -6,7 +6,7 @@ The apriori.py script takes as input the Support and k-value from the command li
 
 The command line input should look like the following:
 
-python apriori.py <support> <k-value>
+python apriori.py support k-value
 
 For example, to generate 1+ frequent itemsets identified with support of 75 is, the command line input should be:
 
